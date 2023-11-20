@@ -1,0 +1,60 @@
+.App{
+    height: 100vh;
+    width: auto;
+}
+
+.bg1 {
+    background-image: url("images/planeta1.svg"), url("/images/09d6cdfca4c804329824a3e7bb3b2971.jpeg");
+    background-position: bottom, center;
+    background-repeat: no-repeat;
+    background-size: 500px, cover;
+    
+}
+
+.bg2 {
+    background-image: url("/images/planeta3.svg"), url("/images/955307b123846d946a86d90dec4f47dc.jpeg");
+    background-position: bottom, center;
+    background-repeat: no-repeat;
+    background-size: 500px, cover;
+    
+}
+
+.bg3 {
+    background-image: url("/images/planeta4.svg"), url("images/98fd2f90a1b38be82e3aae9db4a1d455.jpeg");
+    background-position: bottom, center;
+    background-repeat: no-repeat;
+    background-size: 500px, cover;
+    
+}
+
+.bg4 {
+    background-image: url("/images/planeta2.svg"), url("/images/c8b1cc076bd8a4731c0e25a15c15dea4.jpeg");
+    background-position: bottom, center;
+    background-repeat: no-repeat;
+    background-size: 500px, cover;
+    
+}
+
+
+.bg5 {
+    background-image: url("images/F_Nn3sKXAAAXTiA.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg6 {
+    background-image: url("/images/F_Olf8NbEAE-Aaw.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.bg7 {
+    background-image: url("/images/F_OvfoJXwAAnp06.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
