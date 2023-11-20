@@ -4,7 +4,7 @@
 }
 
 .bg1 {
-    background-image: url("images/planeta1.svg"), url("/images/09d6cdfca4c804329824a3e7bb3b2971.jpeg");
+    background-image: url("/images/planeta1.svg"), url("/images/09d6cdfca4c804329824a3e7bb3b2971.jpeg");
     background-position: bottom, center;
     background-repeat: no-repeat;
     background-size: 500px, cover;
@@ -20,7 +20,7 @@
 }
 
 .bg3 {
-    background-image: url("/images/planeta4.svg"), url("images/98fd2f90a1b38be82e3aae9db4a1d455.jpeg");
+    background-image: url("/images/planeta4.svg"), url("/images/98fd2f90a1b38be82e3aae9db4a1d455.jpeg");
     background-position: bottom, center;
     background-repeat: no-repeat;
     background-size: 500px, cover;
@@ -37,7 +37,7 @@
 
 
 .bg5 {
-    background-image: url("images/F_Nn3sKXAAAXTiA.jpeg");
+    background-image: url("/images/F_Nn3sKXAAAXTiA.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
